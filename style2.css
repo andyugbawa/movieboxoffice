@@ -55,7 +55,7 @@ h1{
 }
 
 .movie-box1{
-    background-color: red;
+    /* background-color: red; */
   
 }
 .movie-box:hover{
@@ -65,40 +65,40 @@ h1{
 
 .movie-box2{
    
-    background-color: yellow;
+    /* background-color: yellow; */
 }
 
 .movie-box3{
    
-    background-color: green;
+    /* background-color: green; */
 }
 .movie-box4{
    
-    background-color:blue;
+    /* background-color:blue; */
 }
 
 .movie-box5{
    
-    background-color: purple;
+    /* background-color: purple; */
 }
 
 .movie-box6{
    
-    background-color: orangered;
+    /* background-color: orangered; */
 }
 
 .movie-box7{
    
-    background-color:cyan;
+    /* background-color:cyan; */
 }
 
 .movie-box8{
    
-    background-color: lime;
+    /* background-color: lime; */
 }
 
 .movie-box9{
-    background-color: brown;
+    /* background-color: brown; */
 }
 
 @media (max-width:800px) {
