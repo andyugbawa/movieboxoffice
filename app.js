@@ -26,7 +26,7 @@ function signIn(){
 
     localStorage.setItem("movies",JSON.stringify(showMax))
 
-    window.location.href = "./index1.html"
+    window.location.href = "./homepage.html"
 }
 
 function logIn(){
