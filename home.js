@@ -92,11 +92,11 @@ function rotate() {
 rotate();
 
 function upcomeAction(){
-    window.location.href = "./index2.html"
+    window.location.href = "./upcomingpage.html"
 }
  
 function topTrigger(){
-     window.location.href = "./index3.html"
+     window.location.href = "./toppage.html"
 }
 
 
