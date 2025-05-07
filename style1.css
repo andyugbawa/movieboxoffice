@@ -520,6 +520,7 @@ p{
     padding: 10px 20px;
     list-style-type: none;
     
+    
 }
 .footer-about{
     margin: 0px auto; 
@@ -705,7 +706,14 @@ h2{
 .footer-category ul li{
     padding: 7px 20px;
     list-style-type: none;
+   
 }
+
+.footer-category ul li a{
+    text-decoration: none;
+    color: white;
+    font-size: 14px;
+ }
 .footer-message{
     padding: 5px 0px 0 46px;
 }
