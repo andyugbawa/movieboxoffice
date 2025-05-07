@@ -67,8 +67,8 @@ body{
     text-decoration: underline;
   }
   .menu-icon{
-    /* display: none; */
-    display: block;
+    display: none;
+    
   }
 
 
